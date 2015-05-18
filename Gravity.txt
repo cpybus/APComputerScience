@@ -1,0 +1,12 @@
+         My Weight on the Planets       
+   Planet        Gravity     Weight(lbs)
+----------------------------------------
+   Mercury         0.38         42.94 
+   Venus           0.90        101.70 
+   Earth           1.00        113.00 
+   Mars            0.38         42.94 
+   Jupiter         2.53        285.89 
+   Saturn          1.06        119.78 
+   Uranus          0.90        101.70 
+   Neptune         1.14        128.82 
+   Pluto           0.07          7.91 
